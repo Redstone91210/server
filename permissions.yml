@@ -3,7 +3,7 @@ op:
   children:
       # Every permission is granted for ops by default, disable a few
 
-      essentials.ban.exempt: false
+      essentials.ban.exempt: true
       essentials.commandcooldowns.bypass: false
       essentials.fly.safelogin: false
       essentials.invsee.preventmodify: false
